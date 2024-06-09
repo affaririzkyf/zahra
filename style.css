@@ -33,7 +33,7 @@ body {
     0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;
   animation: shine 2s forwards, flicker 3s infinite;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 720px) {
   .sign {
     position: absolute;
     display: flex;
